@@ -1,9 +1,6 @@
 ---
 title: "Zenn記事の書き方テスト"
-emoji: "📝"
-type: "tech" # tech: 技術記事 / idea: アイデア記事
-topics: ["zenn", "markdown", "test"]
-published: false
+slug: "test-article-v2" 
 ---
 
 # Zenn記事のテスト
