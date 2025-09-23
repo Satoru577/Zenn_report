@@ -1,6 +1,7 @@
 ---
 title: "DreamGenie「夢をかなえるサポートAIツール」"
-emoji: "/images/mainarticlefile/icon.png"
+emoji: "🧞"
+eyecatch: "/images/mainarticlefile/icon.png"
 type: "tech"
 topics: []
 published: false
@@ -56,10 +57,10 @@ DreamGenieは、目標達成のための「計画生成」と「柔軟な再調�
 | 🗣️ 自然言語による再調整 | 「予定を変更したい」と話しかけるだけで、AIが再構成 |
 
 ### Create Page
-![alt text](create-page.png)
+![目標設定ページ](/images/mainarticlefile/create-page.png)
 - タイトル、目標、期間を入力
 ### Gant Page
-![alt text](gant-page.png)
+![ガントチャート表示ページ](/images/mainarticlefile/gant-page.png)
 - Create Pageの入力情報をもとにガントチャートが自動で作成される
 - AIとチャット形式でやり取りで計画の変更ができる
 
@@ -78,7 +79,7 @@ DreamGenieは、フロントエンドにFlutter Webを採用し、バックエ�
 - **認証**：Firebase Authentication（予定）
 
 ## Architecture
-![alt text](architecture.png)
+![システムアーキテクチャ図](/images/mainarticlefile/architecture.png)
 ---
 
 # 🗄️ データベース設計
@@ -92,14 +93,14 @@ DreamGenieは、フロントエンドにFlutter Webを採用し、バックエ�
 
 DreamGenieは、以下のような拡張性を持っています：
 
-- 📱 モバイル対応：Flutter Webによるクロスプラットフォーム展開
 - 🧠 パーソナライズ：ユーザーの過去の行動から計画精度を向上
-- 🗣️ 音声入力対応：Speech-to-Text APIによる対話型操作
 - 🔄 継続的なリマインド | モチベーション維持のための定期的な通知やフィードバック |
 - 📊 進捗トラッキング | 達成率や残タスクを可視化し、振り返りをサポート |
-- 🤝 **パーソナルコーチング機能**：AIとの対話を通じ、課題解決やモチベーション維持を支援
-- 📝 **タスクの具体化**：抽象的なタスクを、実行可能なサブタスクへAIが分解
-- 📈 **進捗に合わせた計画最適化**：進捗状況をAIが分析し、動的に計画を提案・修正
+- 🤝 パーソナルコーチング機能：AIとの対話を通じ、課題解決やモチベーション維持を支援
+- 📝 タスクの具体化：抽象的なタスクを、実行可能なサブタスクへAIが分解
+- 📈 進捗に合わせた計画最適化：進捗状況をAIが分析し、動的に計画を提案・修正
+- 📱 モバイル対応：Flutter Webによるクロスプラットフォーム展開
+- 🗣️ 音声入力対応：Speech-to-Text APIによる対話型操作
 
 将来的には、「目標達成支援AI」として、教育・キャリア・健康など多様な領域への応用も期待されています。
 
