@@ -1,6 +1,5 @@
 ---
 title: "DreamGenie「夢をかなえるサポートAIツール」"
-emoji: "🧞"
 eyecatch: "/images/mainarticlefile/icon.png"
 type: "tech"
 topics: []
@@ -56,11 +55,9 @@ DreamGenieは、目標達成のための「計画生成」と「柔軟な再調�
 | 🗓️ スケジュール自動生成 | 日々の予定に落とし込んだToDoリストを提示 |
 | 🗣️ 自然言語による再調整 | 「予定を変更したい」と話しかけるだけで、AIが再構成 |
 
-### Create Page
-![目標設定ページ](/images/mainarticlefile/create-page.png)
+### 目標設定ページ
 - タイトル、目標、期間を入力
-### Gant Page
-![ガントチャート表示ページ](/images/mainarticlefile/gant-page.png)
+### ガントチャート表示ページ
 - Create Pageの入力情報をもとにガントチャートが自動で作成される
 - AIとチャット形式でやり取りで計画の変更ができる
 
@@ -78,8 +75,7 @@ DreamGenieは、フロントエンドにFlutter Webを採用し、バックエ�
 - **CI/CD**：GitHub Actions, Artifact Registry
 - **認証**：Firebase Authentication（予定）
 
-## Architecture
-![システムアーキテクチャ図](/images/mainarticlefile/architecture.png)
+## システムアーキテクチャ
 ---
 
 # 🗄️ データベース設計
