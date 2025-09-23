@@ -1,12 +1,12 @@
 ---
 title: "DreamGenie「夢をかなえるサポートAIツール」"
-eyecatch: "/images/mainarticlefile/icon.png"
+emoji: "🧞"
 type: "tech"
 topics: []
 published: false
 ---
-#　デモ動画(3分)
-
+# デモ動画(3分)
+---
 # 🧠 はじめに：AIが「夢の設計士」になる時代へ
 
 「やりたいことはある。でも、どう進めればいいか分からない」  
